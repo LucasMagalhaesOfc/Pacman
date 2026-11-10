@@ -1,0 +1,1 @@
+package com.badlogic.gdx.audio; public interface Music {void setLooping(boolean b); void setVolume(float v); void play(); void pause(); void dispose();}

@@ -1,0 +1,1 @@
+package com.badlogic.gdx.graphics.g2d; import com.badlogic.gdx.graphics.Texture; public class TextureRegion {public TextureRegion(){} public TextureRegion(Texture texture){} public static TextureRegion[][] split(Texture t,int a,int b){return new TextureRegion[4][4];} }

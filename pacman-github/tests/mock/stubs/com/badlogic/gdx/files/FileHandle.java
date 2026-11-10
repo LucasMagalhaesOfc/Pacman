@@ -1,0 +1,1 @@
+package com.badlogic.gdx.files; public class FileHandle {public String readString(String charset){return "";}}

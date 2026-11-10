@@ -1,0 +1,1 @@
+package com.badlogic.gdx.utils;import java.util.*; public class Array<T> implements Iterable<T>{private ArrayList<T> a=new ArrayList<T>();public int size;public void add(T x){a.add(x);size=a.size();}public T get(int i){return a.get(i);}public Iterator<T> iterator(){return a.iterator();}}

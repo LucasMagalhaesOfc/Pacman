@@ -1,0 +1,1 @@
+package com.badlogic.gdx.graphics; import com.badlogic.gdx.files.FileHandle; public class Texture {public enum TextureFilter {Nearest} public Texture(FileHandle f){} public void setFilter(TextureFilter a,TextureFilter b){} public void dispose(){} }

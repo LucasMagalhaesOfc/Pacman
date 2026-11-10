@@ -1,0 +1,1 @@
+package com.badlogic.gdx.graphics; public class Color {public static final Color WHITE=new Color(); public Color(){} public Color(float a,float b,float c,float d){} }

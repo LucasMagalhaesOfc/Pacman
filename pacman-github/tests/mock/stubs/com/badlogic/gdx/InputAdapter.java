@@ -1,0 +1,1 @@
+package com.badlogic.gdx; public class InputAdapter {public boolean keyTyped(char c){return false;} public boolean keyDown(int code){return false;} public boolean keyUp(int code){return false;} }

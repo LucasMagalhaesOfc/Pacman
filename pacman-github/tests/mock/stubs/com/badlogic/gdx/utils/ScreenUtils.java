@@ -1,0 +1,1 @@
+package com.badlogic.gdx.utils;public class ScreenUtils{public static void clear(float r,float g,float b,float a){}}

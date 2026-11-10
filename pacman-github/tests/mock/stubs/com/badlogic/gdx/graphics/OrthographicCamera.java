@@ -1,0 +1,1 @@
+package com.badlogic.gdx.graphics; import com.badlogic.gdx.math.Matrix4; public class OrthographicCamera {public Matrix4 combined=new Matrix4();public void setToOrtho(boolean a,float b,float c){}public void update(){} }

@@ -1,0 +1,1 @@
+package com.badlogic.gdx; public interface Application { Preferences getPreferences(String name); }

@@ -1,0 +1,1 @@
+package com.badlogic.gdx.math; public class MathUtils {public static final float PI=(float)Math.PI;public static float sin(float a){return (float)Math.sin(a);} public static int clamp(int v,int a,int b){return Math.max(a,Math.min(b,v));}public static float clamp(float v,float a,float b){return Math.max(a,Math.min(b,v));} }

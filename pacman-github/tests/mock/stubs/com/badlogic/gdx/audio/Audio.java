@@ -1,0 +1,1 @@
+package com.badlogic.gdx.audio; import com.badlogic.gdx.files.FileHandle; public interface Audio {Music newMusic(FileHandle file); Sound newSound(FileHandle file);}

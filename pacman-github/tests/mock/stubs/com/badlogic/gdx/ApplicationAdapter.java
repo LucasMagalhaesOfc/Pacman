@@ -1,0 +1,1 @@
+package com.badlogic.gdx; public class ApplicationAdapter {public void create(){} public void render(){} public void pause(){} public void dispose(){} }

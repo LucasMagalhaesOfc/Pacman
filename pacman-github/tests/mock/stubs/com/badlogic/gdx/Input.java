@@ -1,0 +1,1 @@
+package com.badlogic.gdx; public interface Input { class Keys {public static final int UP=19,W=51,DOWN=20,S=47,LEFT=21,A=29,RIGHT=22,D=32,ENTER=66,NUMPAD_ENTER=160,BACKSPACE=67,P=44,R=46;} boolean isKeyPressed(int key); boolean isKeyJustPressed(int key); void setInputProcessor(InputAdapter adapter); }

@@ -1,0 +1,1 @@
+package com.badlogic.gdx; public interface Preferences { int getInteger(String key,int d); Preferences putInteger(String key,int value); String getString(String key,String def); Preferences putString(String key,String s); void flush(); }

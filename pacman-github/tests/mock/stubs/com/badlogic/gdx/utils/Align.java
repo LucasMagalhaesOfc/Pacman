@@ -1,0 +1,1 @@
+package com.badlogic.gdx.utils; public class Align{public static final int center=1;}

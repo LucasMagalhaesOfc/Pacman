@@ -1,0 +1,1 @@
+package com.badlogic.gdx; import com.badlogic.gdx.audio.Audio; import com.badlogic.gdx.graphics.GL20; public class Gdx { public static Application app; public static Audio audio; public static Files files; public static Graphics graphics; public static Input input; public static GL20 gl; }

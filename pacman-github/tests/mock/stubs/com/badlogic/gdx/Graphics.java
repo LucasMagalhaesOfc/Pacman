@@ -1,0 +1,1 @@
+package com.badlogic.gdx; public interface Graphics {int getWidth(); int getHeight(); float getDeltaTime();}

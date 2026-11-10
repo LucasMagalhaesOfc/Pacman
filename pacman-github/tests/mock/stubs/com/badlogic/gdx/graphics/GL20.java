@@ -1,0 +1,1 @@
+package com.badlogic.gdx.graphics; public interface GL20 {int GL_BLEND=3042;int GL_SRC_ALPHA=770;int GL_ONE_MINUS_SRC_ALPHA=771;void glEnable(int i);void glDisable(int i);void glBlendFunc(int a,int b);}
